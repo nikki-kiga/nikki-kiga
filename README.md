@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋,
+
+ I’m a software engineer who appreciates clean data and straightforward tooling.
+
+🚀 Currently working on:
+  - 🛴 A Game of Life
+  - 🛹 Portfolio Site
+
+🌠 Checking out soon:
+- Typescript
+- Storybook
+  
+⚡ Fun fact: find me sculpting some clay or foraging in my spare time
 
 <!--
 **nikki-kiga/nikki-kiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +24,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: find me 
 -->
