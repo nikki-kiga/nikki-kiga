@@ -3,12 +3,8 @@
  I’m a software engineer who appreciates clean data and straightforward tooling.
 
 🚀 Currently working on:
-  - 🛴 A Game of Life
-  - 🛹 Portfolio Site
-
-🌠 Checking out soon:
-- Typescript
-- Storybook
+  - 🛴 Next.js site
+  - 🛹 Gatsby site
   
 ⚡ Fun fact: find me sculpting some clay or foraging in my spare time
 
