@@ -2,9 +2,9 @@
 
  I’m a software engineer who appreciates clean data and straightforward tooling.
 
-🚀 Currently working on:
+<!-- 🚀 Currently working on:
   - 🛴 Next.js site
-  - 🛹 Gatsby site
+  - 🛹 Gatsby site -->
   
 ⚡ Fun fact: find me sculpting some clay or foraging in my spare time
 
